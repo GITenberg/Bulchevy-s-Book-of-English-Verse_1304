@@ -1,5 +1,8 @@
 _repo: Bulchevy-s-Book-of-English-Verse_1304
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Quiller-Couch, Arthur
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3579
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
 description: 'Was: The Oxford Book of English Verse'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1304#Bulchevy-s-Book-of-English-Verse
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
 identifiers:
